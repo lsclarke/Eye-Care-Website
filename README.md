@@ -10,4 +10,3 @@
 <h2 align="center" dir="auto"> Overview </h2>
 
 <p dir="auto">This sample website is a personal project of mine developing a website for a local eye care doctors office for glasses. The main theme of this website was health care and I chose to focus on visual health because it resonates with me personally since I have needed glasses since a very young age. This website uses all the knowledge I have learned from my full stack web development course. HTML, CSS, JavaScript and the Bootstrap framework are all the tools I used to not only develop the site but to also make it responsive and readable for all devices so even if a hypothetical guest wish to view the site it looks pleasing to the eyes and organize on all devices.</p>
-##
