@@ -1,0 +1,52 @@
+
+.nav-link.item{
+    color: blanchedalmond;
+    font-size: 1.4pc;
+    font-family: "Faustina", serif;
+    font-weight: 100;
+}
+
+h1{
+        font-family: "Faustina", serif;
+}
+
+h3{
+    color: blanchedalmond;
+    font-family: "Faustina", serif;
+    font-weight: 300;
+}
+
+
+.carousel{
+
+    width: 70%;
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 3em;
+}
+
+.carousel::-webkit-scrollbar{
+    display: none;
+}
+.carousel-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    animation: spin 10s infinite linear ;
+    padding-right: 3em;
+}
+
+.carousel-card{
+    height: 1em;
+    padding: 1em;
+    font-size: 3rem;
+    border-radius: .2em;
+    text-align: center;
+    align-content: center ;
+}
+
+@keyframes spin{
+    from {translate: 0%;}
+    to{translate:-100%;}
+}
